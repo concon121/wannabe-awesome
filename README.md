@@ -26,8 +26,8 @@
 
 ### CentOS
 
--   [Apache Maven](https://gist.github.com/concon121/6046b402afc627fd1302049cf5951a73) - Installing Apache Maven via apt on CentOS.
--   [Java 8](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora) - Installing Oracle JDK for java 8 via apt on CentOS.
+-   [Apache Maven](https://gist.github.com/concon121/6046b402afc627fd1302049cf5951a73) - Installing Apache Maven via yum on CentOS.
+-   [Java 8](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora) - Installing Oracle JDK for java 8 via yum on CentOS.
 -   [NodeJS](https://nodejs.org/en/download/package-manager/#enterprise-linux-and-fedora) - Installing Node JS via yum on CentOS.
 -   [Ruby](https://www.ruby-lang.org/en/documentation/installation/#yum) - Install Ruby via yum on CentOS.
 
