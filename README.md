@@ -17,6 +17,8 @@
     -   [Command Line](#command-line)
 -   [Editors and IDE's](#editors-and-ides)
     -   [Atom](#atom)
+-   [Development Tools](#development-tools)
+    -   [Github](#github)
 
 ## Workspace Set Up
 
@@ -60,3 +62,9 @@
 -   [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Provides vim modal control for Atom.
 -   [vim-mode-plus-ex-mode](https://atom.io/packages/vim-mode-plus-ex-mode) - ex-mode for vim-mode-plus.
 -   [word-count](https://atom.io/packages/wordcount) - Counts the words (and characters) in your current document, as well as in your selections and displays it in the status bar.
+
+## Development Tools
+
+### Github
+
+-   [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - A Ruby gem which will automatically generate a change log from your tags, issues, labels and pull requests on Github.
