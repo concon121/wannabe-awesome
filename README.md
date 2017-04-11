@@ -68,3 +68,4 @@
 ### Github
 
 -   [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - A Ruby gem which will automatically generate a change log from your tags, issues, labels and pull requests on Github.
+-   [catlight](https://catlight.io/) - Status notifications that hook into your Github builds.
