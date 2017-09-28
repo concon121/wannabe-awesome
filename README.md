@@ -52,15 +52,22 @@
 ### Atom
 
 -   [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify lots of languages in Atom.
+-   [atom-commit-templates](https://atom.io/packages/atom-commit-templates) - Easily set custom commit templates in Atom.
 -   [atom-maven](https://atom.io/packages/atom-maven) - Maven integration for Atom!
 -   [atom-terminal-panel](https://atom.io/packages/atom-terminal-panel) - An advanced Atom terminal interface.
+-   [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for vim-mode-plus.
 -   [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping.
+-   [file-types](https://atom.io/packages/file-types) - Specify additional file types for languages.
+-   [git-control](https://atom.io/packages/git-control) - Provides a GUI interface to manage all commonly used git commands.
 -   [git-plus](https://atom.io/packages/git-plus) - Do git things without the terminal.
+-   [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal) - A terminal package for Atom, complete with themes, API and more.
 -   [project-manager](https://atom.io/packages/project-manager) - Project Manager for easy access and switching between projects in Atom.
 -   [script](https://atom.io/packages/script) - Run code in Atom!
+-   [sync-settings](https://atom.io/packages/sync-settings) - Backup your Atom settings to a GitHub Gist.
 -   [tree-view-git-status](https://atom.io/packages/tree-view-git-status) - Show the git repository status in the Atom tree-view.
+-   [tool-bar](https://atom.io/packages/tool-bar) - Provides a customisable tool bar.
+-   [tool-bar-atom](https://atom.io/packages/tool-bar-atom) - Puts commonly used actions on the tool bar.
 -   [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Provides vim modal control for Atom.
--   [vim-mode-plus-ex-mode](https://atom.io/packages/vim-mode-plus-ex-mode) - ex-mode for vim-mode-plus.
 -   [word-count](https://atom.io/packages/wordcount) - Counts the words (and characters) in your current document, as well as in your selections and displays it in the status bar.
 
 ## Development Tools
